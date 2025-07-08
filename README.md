@@ -4,7 +4,7 @@
 ## 🚀 Sobre mí
 Tengo 26 años, apasionado por mantenerme en constante aprendizaje y predispuesto por asumir retos profesionales. 
 
-**Funfact:** Amo a los animales y comparto mis días con dos increíbles compañeros de cuatro patas: Lia y Max. 🐾
+**Funfact:** Amo a los animales y comparto mis días con dos increíbles compañeros de cuatro patas: Lia y Miguel. 🐾
 
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes:** · R · SQL
